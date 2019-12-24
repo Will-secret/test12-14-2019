@@ -1,6 +1,6 @@
 components that can be used in the travel plan project!
 
-//1. Delelet
+//1. Delete
 import React from 'react';
 import ReactDOM from 'react-dom';
 
