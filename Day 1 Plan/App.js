@@ -9,10 +9,10 @@ class Car extends React.Component {
             <div>
                 <h1 className={styles.bigblue}>Day1 Plan  </h1>
                 <h4 className={styles.smallblack}>09:00 - 09:30 Take Uber to the Metro</h4>
-                <h4 className={styles.smallblack}>09:45 - 12:00 visit Metro</h4>
-                <h4 className={styles.smallblack}>Lunch time(will add pics later on)</h4>
-                <h4 className={styles.smallblack}>14:30 - 17:30 shopping at Fifth Ave</h4>
-                <h4 className={styles.smallblack}>17:30 - 18:00 back to hotel by Uber</h4>
+                <h4 className={styles.smallblack}>09:45 - 12:00 Visit Metro</h4>
+                <h4 className={styles.smallblack}>Lunch time 🍱</h4>
+                <h4 className={styles.smallblack}>14:30 - 17:30 Shopping at Fifth Ave 🛍️</h4>
+                <h4 className={styles.smallblack}>17:30 - 18:00 Back to hotel by Uber</h4>
             </div>
         );
     }
